@@ -244,6 +244,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.feature">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gherkin" />
+              <option name="myPluginName" value="Gherkin" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fnc">
           <value>
             <plugin>
